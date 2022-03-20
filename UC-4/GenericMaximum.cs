@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 
 namespace UC_4
 {
-    
-   
         class GenericMaximum<T> where T : IComparable
         {
             public T[] value;
